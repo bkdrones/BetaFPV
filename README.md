@@ -1,2 +1,2 @@
 # BetaFPV
-BetaFPV Betaflight dumps
+Betaflight dumps
